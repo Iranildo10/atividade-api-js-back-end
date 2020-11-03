@@ -13,7 +13,7 @@ Neste mini projeto, unimos a popolaridade das APIs com a populariadade da lingua
 * Async/Await
 * Armazenamento de imagem com Azure
 
-### Utilizandoa a API
+### Utilizando a API
 * Cadastro de Usuário
     Rota: localhost:3000/usuario
     Método: POST
